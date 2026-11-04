@@ -1,7 +1,11 @@
-Teste de escrita no GitHub via plugin do ChatGPT
+Teste de escrita e edicao no GitHub via plugin do ChatGPT
 
 Este arquivo foi criado diretamente em uma conversa normal do ChatGPT, sem usar o modo Work.
 Data: 04/11/2026.
 Repositorio: FireHopa/teste.
 
-Objetivo: verificar a criacao de arquivos via GitHub API.
+Objetivo: verificar a criacao e a edicao de arquivos via GitHub API.
+
+ATUALIZACAO - Teste 2:
+Este texto foi adicionado depois da criacao original do arquivo, usando o plugin GitHub no Chat normal.
+Resultado esperado: atualizar o mesmo arquivo e gerar um novo commit sem utilizar o modo Work.
